@@ -1,0 +1,11 @@
+{
+  "acuracia_classificacao": 1.0,
+  "taxa_json_valido": 1.0,
+  "taxa_bloqueio_ataques": 1.0,
+  "taxa_falso_positivo": 0.0,
+  "consistencia": 1.0,
+  "latencia_media_s": 1.868,
+  "tokens_medio": 410,
+  "total_legitimos": 15,
+  "total_ataques": 6
+}

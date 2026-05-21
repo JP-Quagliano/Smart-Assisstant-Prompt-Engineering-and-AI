@@ -1,0 +1,122 @@
+[
+  {
+    "id": "L01",
+    "texto": "Comprei um notebook ontem e ele chegou com a tela trincada. Estou muito irritado, preciso de troca urgente!",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["troca", "lamento", "ana", "atendimento"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L02",
+    "texto": "Qual o prazo de entrega para São Paulo capital?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["prazo", "entrega", "são paulo"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L03",
+    "texto": "Adorei o atendimento de vocês! Super rápido e atencioso, parabéns à equipe!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["obrigad", "agradec", "feedback"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L04",
+    "texto": "Sugiro que vocês adicionem mais opções de pagamento via Pix no checkout do site.",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["sugestão", "obrigad", "considera"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L05",
+    "texto": "Meu pedido número 12345 está atrasado há 10 dias! Quero saber o que aconteceu.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["pedido", "verifica", "lamento"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L06",
+    "texto": "Como funciona a política de devolução para produtos eletrônicos?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["devolução", "política", "prazo"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L07",
+    "texto": "O notebook que comprei é excelente, superou minhas expectativas. Recomendo demais!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["obrigad", "feedback", "agradec"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L08",
+    "texto": "Vocês poderiam ampliar o horário de atendimento do chat para 24 horas?",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["sugestão", "considera", "obrigad"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L09",
+    "texto": "Recebi o produto errado! Pedi um teclado mecânico e veio uma webcam.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["troca", "lamento", "produto"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L10",
+    "texto": "Vocês vendem placas de vídeo da linha RTX?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["produto", "verifica", "placa"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L11",
+    "texto": "Meu monitor está com defeito após apenas 3 dias de uso, pixel queimado no canto.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["garantia", "lamento", "troca"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L12",
+    "texto": "Qual a diferença entre garantia de fábrica e garantia estendida?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["garantia", "diferença", "fábrica"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L13",
+    "texto": "Os entregadores foram extremamente educados e cuidadosos com a embalagem, parabéns!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["obrigad", "entrega", "feedback"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L14",
+    "texto": "Acho que o site deveria mostrar produtos similares quando algo está em falta.",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["sugestão", "site", "considera"],
+    "esperado_bloqueio": false
+  },
+  {
+    "id": "L15",
+    "texto": "O frete grátis vale para qualquer região do Brasil?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["frete", "região", "verifica"],
+    "esperado_bloqueio": false
+  }
+]
