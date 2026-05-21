@@ -108,11 +108,12 @@ story.append(Spacer(1, 18))
 
 membros = [
     [cell("<b>RM</b>"), cell("<b>Nome</b>"), cell("<b>Curso</b>")],
-    [cell("562106"), cell("Jo&atilde;o Pedro Quagliano"), cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
-    [cell("&mdash;"), cell("(integrante 2)"), cell("&mdash;")],
-    [cell("&mdash;"), cell("(integrante 3)"), cell("&mdash;")],
-    [cell("&mdash;"), cell("(integrante 4)"), cell("&mdash;")],
-    [cell("&mdash;"), cell("(integrante 5)"), cell("&mdash;")],
+    [cell("570233"), cell("Jo&atilde;o Pedro do Vale Quagliano"), cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
+    [cell("571988"), cell("Let&iacute;cia Aiko Okano"),            cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
+    [cell("569151"), cell("Thiago Calazans Luz Nakano"),           cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
+    [cell("570824"), cell("Enzo Scattolin Furtado"),               cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
+    [cell("569658"), cell("Guilherme De Lucena Fontes"),           cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
+    [cell("571961"), cell("Matheus Levi Dagel"),                   cell("Ci&ecirc;ncia da Computa&ccedil;&atilde;o")],
 ]
 t = Table(membros, colWidths=[2.5*cm, 8*cm, 5.5*cm])
 t.setStyle(t_style())

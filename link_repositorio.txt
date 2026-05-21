@@ -1,4 +1,0 @@
-https://github.com/JP-Quagliano/Smart-Assisstant-Prompt-Engineering-and-AI
-
-# IMPORTANTE: substituir a URL acima pela do repositório real do grupo
-# antes de enviar a entrega. A rubrica exige um TXT com o link do GitHub.

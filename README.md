@@ -224,14 +224,14 @@ print(result.resposta.resposta)      # texto final ao cliente
 
 ## 10. Grupo
 
- RM | Nome 
-
-Joao Pedro do Vale Quagliano - RM 570233
-Leticia Aiko Okano           - RM 571988
-Thiago Calazans Luz Nakano   - RM 569151
-Enzo Scattolin Furtado       - RM 570824
-Guilherme De Lucena Fontes   - RM 569658
-Matheus Levi Dagel           - RM 571961
+| RM | Nome | Curso |
+|---|---|---|
+| 570233 | João Pedro do Vale Quagliano | Ciência da Computação |
+| 571988 | Letícia Aiko Okano | Ciência da Computação |
+| 569151 | Thiago Calazans Luz Nakano | Ciência da Computação |
+| 570824 | Enzo Scattolin Furtado | Ciência da Computação |
+| 569658 | Guilherme De Lucena Fontes | Ciência da Computação |
+| 571961 | Matheus Levi Dagel | Ciência da Computação |
 
 ---
 
