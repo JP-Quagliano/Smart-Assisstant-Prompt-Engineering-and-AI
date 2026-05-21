@@ -224,13 +224,14 @@ print(result.resposta.resposta)      # texto final ao cliente
 
 ## 10. Grupo
 
-| RM | Nome | Curso |
-|---|---|---|
-| 562106 | João Pedro Quagliano | Engenharia de Software |
-| ... | ... | ... |
-| ... | ... | ... |
+ RM | Nome 
 
-> _Preencher os demais membros do grupo antes da entrega._
+Joao Pedro do Vale Quagliano - RM 570233
+Leticia Aiko Okano           - RM 571988
+Thiago Calazans Luz Nakano   - RM 569151
+Enzo Scattolin Furtado       - RM 570824
+Guilherme De Lucena Fontes   - RM 569658
+Matheus Levi Dagel           - RM 571961
 
 ---
 
